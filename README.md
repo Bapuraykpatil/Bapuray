@@ -1,2 +1,2 @@
 # Bapuray
-This was my frist Repository
+This was my first Repository
